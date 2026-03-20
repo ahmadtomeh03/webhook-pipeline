@@ -9,7 +9,7 @@ This service allows you to:
 - Process them in the background using a queue
 - Deliver the processed result to one or more subscribers
 
-Think of it as a simplified automation system similar to Zapier.
+
 
 ## Example Flow
 
